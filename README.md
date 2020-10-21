@@ -97,6 +97,7 @@ Please add your name in the list in the following format:
  ` - Name`  <br>
 -[Nikunj Aggarwal](https://github.com/Nikunj-Aggarwal/)  
 -[Priyank Rastogi](https://github.com/Priyankcoder/)  
+-[Shrey Singh](https://github.com/shreysingh8838/)  
 -Rishabh Jain 
 
 
